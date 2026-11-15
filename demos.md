@@ -6,7 +6,7 @@ description: Try ProductBoxes live. Build a box, watch the discount grow and add
 
 See ProductBoxes working on a real storefront before you install it. Each demo is a different campaign type and template.
 
-{% embed url="https://www.youtube.com/watch?v=7tlm_BwW9jI" %}
+{% embed url="https://youtu.be/U_B8JJPrdC8" %}
 Watch the ProductBoxes demo video
 {% endembed %}
 
