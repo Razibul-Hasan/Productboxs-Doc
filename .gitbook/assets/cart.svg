@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 784" role="img"><defs>
+<filter id="sh" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="22" stdDeviation="26" flood-color="#1e1e1e" flood-opacity="0.20"/></filter>
+<filter id="ss" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#1e1e1e" flood-opacity="0.10"/></filter>
+<linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5a24"/><stop offset="1" stop-color="#e83a0a"/></linearGradient>
+<linearGradient id="nightHero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b2130"/><stop offset="1" stop-color="#0d1017"/></linearGradient>
+</defs>
+<rect width="1300" height="784" rx="24" fill="#f3eee9"/>
+<g font-family="Inter, 'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" filter="url(#sh)">
+<rect x="50" y="50" width="1200" height="684" rx="14" fill="#fff"/>
+<rect x="50" y="50" width="1200" height="44" rx="14" fill="#f4f4f5"/><rect x="50" y="80" width="1200" height="14" fill="#f4f4f5"/>
+<circle cx="78" cy="72" r="6" fill="#ff5f57"/><circle cx="98" cy="72" r="6" fill="#febc2e"/><circle cx="118" cy="72" r="6" fill="#28c840"/>
+<rect x="390" y="60" width="520" height="24" rx="12" fill="#fff"/><text x="650" y="77" text-anchor="middle" font-size="12" fill="#6b7280">maisondore.shop/cart</text>
+<clipPath id="cl"><rect x="50" y="94" width="1200" height="640" rx="0"/></clipPath>
+<g clip-path="url(#cl)"><g transform="translate(50 94)"><rect width="1200" height="640" fill="#fff"/><rect width="1200" height="70" fill="#fff"/><path d="M0 70 H1200" stroke="#eee"/>
+  <circle cx="64" cy="35" r="15" fill="#ff4f1f"/><rect x="58" y="29" width="12" height="12" rx="3" fill="#ffe100"/><text x="88" y="42" font-size="20" font-weight="800" fill="#1b1b1f" letter-spacing="-0.4">Maison Doré</text>
+  <text x="40" y="128" font-size="34" font-weight="800" fill="#1b1b1f" letter-spacing="-1">Cart</text>
+  <rect x="40" y="152" width="720" height="380" rx="16" fill="#fff" stroke="#e8e5e1"/>
+  <g font-size="12" font-weight="700" fill="#8a847f" letter-spacing=".6"><text x="64" y="186">PRODUCT</text><text x="540" y="186">QUANTITY</text><text x="700" y="186" text-anchor="end">SUBTOTAL</text></g><path d="M40 202 H760" stroke="#eee"/>
+  <rect x="64" y="222" width="116" height="116" rx="14" fill="#faf8f6" stroke="#eee7df"/>
+  <circle cx="90" cy="250" r="20" fill="#fff3d6"/><g transform="translate(75 235) scale(0.3)"><ellipse cx="50" cy="88" rx="28" ry="4" fill="#000" opacity=".08"/>
+    <rect x="24" y="30" width="52" height="56" rx="12" fill="#f2a516"/><rect x="24" y="30" width="52" height="14" rx="8" fill="#f7bf4a"/>
+    <rect x="28" y="16" width="44" height="16" rx="5" fill="#7a4b22"/><rect x="28" y="16" width="44" height="5" rx="3" fill="#9a6431"/>
+    <rect x="32" y="50" width="36" height="26" rx="5" fill="#fffaf0"/><circle cx="50" cy="60" r="5" fill="#f2a516"/><rect x="38" y="68" width="24" height="3" rx="1.5" fill="#c9b79a"/>
+    <path d="M30 34 q4 14 2 22" stroke="#fff" stroke-opacity=".5" stroke-width="3" fill="none" stroke-linecap="round"/></g><circle cx="122" cy="250" r="20" fill="#fbefe0"/><g transform="translate(107 235) scale(0.3)"><ellipse cx="50" cy="88" rx="32" ry="4" fill="#000" opacity=".08"/>
+    <circle cx="40" cy="58" r="28" fill="#d99a58"/><circle cx="40" cy="58" r="28" fill="none" stroke="#c0803f" stroke-width="2"/>
+    <circle cx="30" cy="50" r="4" fill="#5a3520"/><circle cx="46" cy="44" r="4.5" fill="#5a3520"/><circle cx="50" cy="64" r="4" fill="#5a3520"/><circle cx="32" cy="68" r="3.5" fill="#5a3520"/><circle cx="58" cy="54" r="3" fill="#5a3520"/>
+    <circle cx="66" cy="36" r="22" fill="#e6ae6e"/><circle cx="66" cy="36" r="22" fill="none" stroke="#cf9150" stroke-width="2"/>
+    <circle cx="58" cy="30" r="3.5" fill="#6a4026"/><circle cx="72" cy="28" r="3" fill="#6a4026"/><circle cx="68" cy="44" r="3.5" fill="#6a4026"/></g><circle cx="154" cy="250" r="20" fill="#e3f2ec"/><g transform="translate(139 235) scale(0.3)"><ellipse cx="50" cy="90" rx="26" ry="4" fill="#000" opacity=".08"/>
+    <rect x="26" y="24" width="48" height="64" rx="7" fill="#2f7a66"/><rect x="26" y="24" width="14" height="64" rx="7" fill="#3a8e78"/>
+    <rect x="23" y="14" width="54" height="14" rx="5" fill="#215a4b"/><rect x="23" y="14" width="54" height="4" rx="2" fill="#2d7260"/>
+    <ellipse cx="52" cy="58" rx="17" ry="20" fill="#f7f0e0"/>
+    <path d="M52 44 C42 52 44 66 52 72 C60 66 62 52 52 44 Z" fill="#2f7a66"/><path d="M52 48 V70" stroke="#f7f0e0" stroke-width="1.5"/></g><circle cx="106" cy="296" r="20" fill="#fde6ea"/><g transform="translate(91 281) scale(0.3)"><ellipse cx="50" cy="90" rx="26" ry="4" fill="#000" opacity=".08"/>
+    <rect x="26" y="30" width="48" height="58" rx="10" fill="#b3203d"/><rect x="26" y="30" width="48" height="14" rx="8" fill="#c93352"/>
+    <rect x="28" y="18" width="44" height="14" rx="4" fill="#f0cf6a"/><path d="M32 18 v14 M42 18 v14 M52 18 v14 M62 18 v14" stroke="#d9b24b" stroke-width="2"/>
+    <rect x="31" y="50" width="38" height="28" rx="5" fill="#fffaf0"/>
+    <path d="M50 74 C42 68 40 60 45 58 C48 57 50 59 50 59 C50 59 52 57 55 58 C60 60 58 68 50 74Z" fill="#d1375a"/><circle cx="50" cy="56" r="2" fill="#3b8f4e"/></g><circle cx="138" cy="296" r="20" fill="#fdeaf3"/><g transform="translate(123 281) scale(0.3)"><ellipse cx="50" cy="90" rx="30" ry="4" fill="#000" opacity=".08"/>
+    <g><ellipse cx="38" cy="66" rx="22" ry="9" fill="#f4a9c8"/><rect x="18" y="62" width="40" height="6" fill="#fff3f7"/><ellipse cx="38" cy="58" rx="22" ry="9" fill="#f7bad4"/></g>
+    <g><ellipse cx="64" cy="42" rx="22" ry="9" fill="#a8d5a2"/><rect x="44" y="38" width="40" height="6" fill="#fffbe9"/><ellipse cx="64" cy="34" rx="22" ry="9" fill="#bde3b6"/></g></g>
+  <text x="204" y="248" font-size="18" font-weight="800" fill="#1b1b1f">Holiday gift box</text>
+  <text x="204" y="274" font-size="13.5" fill="#6b6460">Wildflower Honey × 2</text><text x="204" y="294" font-size="13.5" fill="#6b6460">Oat &amp; Honey Cookies × 1</text><text x="204" y="314" font-size="13.5" fill="#6b6460">Jasmine Tea Tin × 1</text><text x="204" y="334" font-size="13.5" fill="#6b6460">Strawberry Jam × 1</text>
+  <rect x="204" y="352" width="82" height="24" rx="12" fill="#fff1ea"/><text x="245" y="369" text-anchor="middle" font-size="12.5" font-weight="800" fill="#c2410c">Edit box</text>
+  <rect x="204" y="388" width="170" height="24" rx="12" fill="#e8f7ec"/><text x="289" y="405" text-anchor="middle" font-size="12" font-weight="700" fill="#00701b">🎁 Gift note included</text>
+  <rect x="516" y="260" width="96" height="36" rx="8" fill="#fff" stroke="#d9d5d0"/><text x="564" y="284" text-anchor="middle" font-size="15" font-weight="700">1</text>
+  <text x="700" y="284" text-anchor="end" font-size="18" font-weight="800" fill="#1b1b1f">$47.70</text><text x="700" y="304" text-anchor="end" font-size="12.5" fill="#8a847f" text-decoration="line-through">$53.00</text>
+  <rect x="800" y="152" width="360" height="360" rx="16" fill="#faf8f6" stroke="#eee7df"/>
+  <text x="826" y="192" font-size="18" font-weight="800">Cart totals</text>
+  <text x="826" y="232" font-size="14" fill="#6b6460">Subtotal</text><text x="1134" y="232" text-anchor="end" font-size="14">$53.00</text>
+  <text x="826" y="262" font-size="14" fill="#6b6460">Box discount (10%)</text><text x="1134" y="262" text-anchor="end" font-size="14" font-weight="700" fill="#2f7a4a">−$5.30</text>
+  <text x="826" y="292" font-size="14" fill="#6b6460">Shipping</text><text x="1134" y="292" text-anchor="end" font-size="14">Free</text>
+  <path d="M826 314 H1134" stroke="#e8e0d6"/><text x="826" y="348" font-size="18" font-weight="800">Total</text><text x="1134" y="348" text-anchor="end" font-size="24" font-weight="800">$47.70</text>
+  <rect x="826" y="376" width="308" height="52" rx="26" fill="#ff4f1f"/><text x="980" y="408" text-anchor="middle" font-size="16" font-weight="800" fill="#fff">Proceed to checkout</text>
+  <text x="980" y="462" text-anchor="middle" font-size="12.5" fill="#8a847f">You saved $5.30 with your box</text></g></g></g></svg>

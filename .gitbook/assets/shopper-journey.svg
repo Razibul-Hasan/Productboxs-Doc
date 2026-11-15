@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 330" role="img" aria-label="What the shopper sees, from picking products to checkout">
+  <defs><filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#1e1e1e" flood-opacity="0.10"/></filter></defs>
+  <rect width="1400" height="330" rx="24" fill="#faf8f6"/>
+  <g font-family="Inter, 'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif">
+    <path d="M318 165 h40 M668 165 h40 M1018 165 h40" stroke="#d9d2cc" stroke-width="2.5" stroke-dasharray="3 7" stroke-linecap="round"/>
+    <g filter="url(#s)"><rect x="40" y="40" width="278" height="250" rx="18" fill="#fff"/><rect x="390" y="40" width="278" height="250" rx="18" fill="#fff"/><rect x="740" y="40" width="278" height="250" rx="18" fill="#fff"/><rect x="1090" y="40" width="270" height="250" rx="18" fill="#fff"/></g>
+
+    <!-- 1 pick -->
+    <rect x="62" y="62" width="234" height="120" rx="12" fill="#fff3ec"/>
+    <g><rect x="76" y="76" width="64" height="70" rx="8" fill="#fff" stroke="#ffd9c7"/><rect x="148" y="76" width="64" height="70" rx="8" fill="#fff" stroke="#ff4a12" stroke-width="2"/><rect x="220" y="76" width="64" height="70" rx="8" fill="#fff" stroke="#ffd9c7"/><rect x="154" y="154" width="52" height="18" rx="9" fill="#ff4a12"/></g>
+    <text x="62" y="214" font-size="18" font-weight="800" fill="#1e1e1e">1 · Pick products</text><text x="62" y="238" font-size="13.5" fill="#6b6460">Cards add to the box with one tap.</text><text x="62" y="258" font-size="13.5" fill="#6b6460">Variations and stock are respected.</text>
+
+    <!-- 2 discount -->
+    <rect x="412" y="62" width="234" height="120" rx="12" fill="#fff9d6"/>
+    <rect x="432" y="98" width="194" height="12" rx="6" fill="#efe39a"/><rect x="432" y="98" width="130" height="12" rx="6" fill="#ff4a12"/>
+    <rect x="432" y="130" width="140" height="28" rx="14" fill="#fff" stroke="#f3dc5c"/><text x="502" y="149" text-anchor="middle" font-size="12.5" font-weight="700" fill="#8a4d00">Add 2 more → 20% off</text>
+    <text x="412" y="214" font-size="18" font-weight="800" fill="#1e1e1e">2 · Watch savings grow</text><text x="412" y="238" font-size="13.5" fill="#6b6460">The progress bar shows the next</text><text x="412" y="258" font-size="13.5" fill="#6b6460">milestone and the live total.</text>
+
+    <!-- 3 cart -->
+    <rect x="762" y="62" width="234" height="120" rx="12" fill="#eef2ff"/>
+    <rect x="778" y="78" width="202" height="88" rx="10" fill="#fff"/><text x="792" y="102" font-size="13" font-weight="700" fill="#1e1e1e">Holiday gift box</text><text x="792" y="121" font-size="11.5" fill="#6b6460">Cookies, Chocolate, Tea +2</text><text x="792" y="154" font-size="12" fill="#ff4a12" font-weight="700">Edit box</text><text x="966" y="154" text-anchor="end" font-size="13" font-weight="700" fill="#1e1e1e">$43.20</text>
+    <text x="762" y="214" font-size="18" font-weight="800" fill="#1e1e1e">3 · One tidy cart line</text><text x="762" y="238" font-size="13.5" fill="#6b6460">Items are listed under the box.</text><text x="762" y="258" font-size="13.5" fill="#6b6460">Shoppers can reopen it to edit.</text>
+
+    <!-- 4 order -->
+    <rect x="1112" y="62" width="226" height="120" rx="12" fill="#e8f7ec"/>
+    <circle cx="1225" cy="108" r="26" fill="#008a20"/><path d="M1212 108 l9 9 l17 -19" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1225" y="160" text-anchor="middle" font-size="13" font-weight="700" fill="#00701b">Order confirmed</text>
+    <text x="1112" y="214" font-size="18" font-weight="800" fill="#1e1e1e">4 · Order &amp; stock</text><text x="1112" y="238" font-size="13.5" fill="#6b6460">Each item reduces its own stock.</text><text x="1112" y="258" font-size="13.5" fill="#6b6460">Gift notes ride with the order.</text>
+  </g>
+</svg>

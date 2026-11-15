@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 890" role="img" aria-label="ProductBoxes dashboard in WordPress admin">
+  <defs><filter id="s" x="-5%" y="-5%" width="110%" height="115%"><feDropShadow dx="0" dy="20" stdDeviation="24" flood-color="#1e1e1e" flood-opacity="0.18"/></filter></defs>
+  <rect width="1400" height="890" rx="24" fill="#f3eee9"/>
+  <g font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" filter="url(#s)">
+    <rect x="50" y="40" width="1300" height="810" rx="14" fill="#f0f0f1"/>
+    <!-- browser bar -->
+    <rect x="50" y="40" width="1300" height="44" rx="14" fill="#fff"/><rect x="50" y="70" width="1300" height="14" fill="#fff"/>
+    <circle cx="78" cy="62" r="6" fill="#ff5f57"/><circle cx="98" cy="62" r="6" fill="#febc2e"/><circle cx="118" cy="62" r="6" fill="#28c840"/>
+    <rect x="460" y="50" width="480" height="24" rx="12" fill="#f0f0f1"/><text x="700" y="67" text-anchor="middle" font-size="12" fill="#757575">yourstore.com/wp-admin/admin.php?page=productboxes</text>
+    <!-- WP sidebar -->
+    <rect x="50" y="84" width="170" height="766" fill="#1d2327"/><rect x="50" y="84" width="170" height="736" rx="0" fill="#1d2327"/>
+    <g font-size="13" fill="#c3c4c7">
+      <text x="72" y="124">Dashboard</text><text x="72" y="158">Posts</text><text x="72" y="192">WooCommerce</text><text x="72" y="226">Products</text>
+      <rect x="50" y="246" width="170" height="34" fill="#2c3338"/><rect x="50" y="246" width="3" height="34" fill="#ff4a12"/><text x="72" y="268" fill="#fff" font-weight="600">ProductBoxes</text>
+      <text x="92" y="304" fill="#fff" font-size="12.5" font-weight="600">Dashboard</text><text x="92" y="328" font-size="12.5">Boxes</text><text x="92" y="352" font-size="12.5">Analytics</text><text x="92" y="376" font-size="12.5">Settings</text>
+      <text x="72" y="418">Appearance</text><text x="72" y="452">Plugins</text>
+    </g>
+    <!-- content -->
+    <g transform="translate(250 112)">
+      <text x="0" y="22" font-size="26" font-weight="700" fill="#1e1e1e" letter-spacing="-0.4">Dashboard</text>
+      <text x="0" y="46" font-size="13.5" fill="#757575">How your boxes did in the last 30 days.</text>
+      <rect x="920" y="2" width="130" height="38" rx="6" fill="#ff4a12"/><text x="985" y="26" text-anchor="middle" font-size="13.5" font-weight="600" fill="#fff">+ Create box</text>
+
+      <!-- stat cards -->
+      <g>
+        <rect y="76" width="256" height="104" rx="8" fill="#fff" stroke="#e0e0e0"/><text x="20" y="104" font-size="12.5" fill="#757575">Revenue from boxes</text><text x="20" y="146" font-size="32" font-weight="700" fill="#1e1e1e">$4,820</text><text x="20" y="166" font-size="12" font-weight="600" fill="#008a20">▲ 18% vs previous</text>
+        <rect x="272" y="76" width="256" height="104" rx="8" fill="#fff" stroke="#e0e0e0"/><text x="292" y="104" font-size="12.5" fill="#757575">Boxes sold</text><text x="292" y="146" font-size="32" font-weight="700" fill="#1e1e1e">142</text><text x="292" y="166" font-size="12" font-weight="600" fill="#008a20">▲ 9% vs previous</text>
+        <rect x="544" y="76" width="256" height="104" rx="8" fill="#fff" stroke="#e0e0e0"/><text x="564" y="104" font-size="12.5" fill="#757575">Average box value</text><text x="564" y="146" font-size="32" font-weight="700" fill="#1e1e1e">$33.94</text><text x="564" y="166" font-size="12" font-weight="600" fill="#008a20">▲ 6% vs previous</text>
+        <rect x="816" y="76" width="234" height="104" rx="8" fill="#fff" stroke="#e0e0e0"/><text x="836" y="104" font-size="12.5" fill="#757575">Builder conversion</text><text x="836" y="146" font-size="32" font-weight="700" fill="#1e1e1e">12.4%</text><text x="836" y="166" font-size="12" font-weight="600" fill="#8a4d00">▼ 1% vs previous</text>
+      </g>
+
+      <!-- chart -->
+      <rect y="204" width="640" height="300" rx="8" fill="#fff" stroke="#e0e0e0"/>
+      <text x="20" y="234" font-size="15" font-weight="600" fill="#1e1e1e">Revenue from boxes, daily</text>
+      <g stroke="#f0f0f0"><path d="M20 290 H620 M20 340 H620 M20 390 H620 M20 440 H620"/></g>
+      <path d="M20 430 C70 410 90 400 130 392 S200 360 240 372 S320 330 360 320 S440 300 480 280 S560 270 620 250 V470 H20 Z" fill="#ff4a12" fill-opacity="0.10"/>
+      <path d="M20 430 C70 410 90 400 130 392 S200 360 240 372 S320 330 360 320 S440 300 480 280 S560 270 620 250" fill="none" stroke="#ff4a12" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="620" cy="250" r="6" fill="#fff" stroke="#ff4a12" stroke-width="3"/>
+
+      <!-- setup checklist -->
+      <rect x="664" y="204" width="386" height="300" rx="8" fill="#fff" stroke="#e0e0e0"/>
+      <text x="684" y="234" font-size="15" font-weight="600" fill="#1e1e1e">Finish setting up</text>
+      <rect x="684" y="248" width="346" height="6" rx="3" fill="#f0f0f0"/><rect x="684" y="248" width="173" height="6" rx="3" fill="#ff4a12"/>
+      <g font-size="13.5" fill="#1e1e1e">
+        <circle cx="694" cy="288" r="10" fill="#008a20"/><path d="M689 288 l4 4 l7 -8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/><text x="716" y="293">Name your box</text>
+        <circle cx="694" cy="332" r="10" fill="#008a20"/><path d="M689 332 l4 4 l7 -8" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round"/><text x="716" y="337">Choose what shoppers can pick</text>
+        <circle cx="694" cy="376" r="10" fill="none" stroke="#c3c4c7" stroke-width="2"/><text x="716" y="381" font-weight="600">Put it on a page</text><text x="716" y="399" font-size="12" fill="#757575">So shoppers can find it.</text>
+        <circle cx="694" cy="432" r="10" fill="none" stroke="#c3c4c7" stroke-width="2"/><text x="716" y="437" font-weight="600">Place a test order</text><text x="716" y="455" font-size="12" fill="#757575">Check the price and the cart line.</text>
+      </g>
+
+      <!-- most picked -->
+      <rect y="528" width="1050" height="200" rx="8" fill="#fff" stroke="#e0e0e0"/>
+      <text x="20" y="558" font-size="15" font-weight="600" fill="#1e1e1e">Most picked products</text>
+      <g font-size="13" fill="#1e1e1e">
+        <g transform="translate(21 575) scale(0.26)"><ellipse cx="50" cy="88" rx="32" ry="4" fill="#000" opacity=".08"/>
+    <circle cx="40" cy="58" r="28" fill="#d99a58"/><circle cx="40" cy="58" r="28" fill="none" stroke="#c0803f" stroke-width="2"/>
+    <circle cx="30" cy="50" r="4" fill="#5a3520"/><circle cx="46" cy="44" r="4.5" fill="#5a3520"/><circle cx="50" cy="64" r="4" fill="#5a3520"/><circle cx="32" cy="68" r="3.5" fill="#5a3520"/><circle cx="58" cy="54" r="3" fill="#5a3520"/>
+    <circle cx="66" cy="36" r="22" fill="#e6ae6e"/><circle cx="66" cy="36" r="22" fill="none" stroke="#cf9150" stroke-width="2"/>
+    <circle cx="58" cy="30" r="3.5" fill="#6a4026"/><circle cx="72" cy="28" r="3" fill="#6a4026"/><circle cx="68" cy="44" r="3.5" fill="#6a4026"/></g><text x="56" y="592">Honey oat cookies</text><rect x="260" y="582" width="560" height="10" rx="5" fill="#f0f0f0"/><rect x="260" y="582" width="500" height="10" rx="5" fill="#ff4a12"/><text x="1030" y="592" text-anchor="end" fill="#757575">318 picks</text>
+        <g transform="translate(21 607) scale(0.26)"><ellipse cx="50" cy="88" rx="30" ry="4" fill="#000" opacity=".08"/>
+    <g transform="rotate(-8 50 52)"><rect x="20" y="16" width="60" height="72" rx="7" fill="#43251a"/>
+    <path d="M20 40 H80 M20 64 H80 M40 16 V88 M60 16 V88" stroke="#5b3626" stroke-width="2"/>
+    <rect x="20" y="62" width="60" height="26" rx="7" fill="#c9a24b"/><rect x="20" y="62" width="60" height="8" fill="#c9a24b"/>
+    <text x="50" y="80" text-anchor="middle" font-size="9" font-weight="800" fill="#43251a" letter-spacing="1" font-family="Inter, 'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif">70% CACAO</text></g></g><text x="56" y="624">Dark Chocolate Bar</text><rect x="260" y="614" width="560" height="10" rx="5" fill="#f0f0f0"/><rect x="260" y="614" width="400" height="10" rx="5" fill="#ff4a12" fill-opacity="0.85"/><text x="1030" y="624" text-anchor="end" fill="#757575">254 picks</text>
+        <g transform="translate(21 639) scale(0.26)"><ellipse cx="50" cy="90" rx="26" ry="4" fill="#000" opacity=".08"/>
+    <rect x="26" y="24" width="48" height="64" rx="7" fill="#2f7a66"/><rect x="26" y="24" width="14" height="64" rx="7" fill="#3a8e78"/>
+    <rect x="23" y="14" width="54" height="14" rx="5" fill="#215a4b"/><rect x="23" y="14" width="54" height="4" rx="2" fill="#2d7260"/>
+    <ellipse cx="52" cy="58" rx="17" ry="20" fill="#f7f0e0"/>
+    <path d="M52 44 C42 52 44 66 52 72 C60 66 62 52 52 44 Z" fill="#2f7a66"/><path d="M52 48 V70" stroke="#f7f0e0" stroke-width="1.5"/></g><text x="56" y="656">Jasmine Tea Tin</text><rect x="260" y="646" width="560" height="10" rx="5" fill="#f0f0f0"/><rect x="260" y="646" width="310" height="10" rx="5" fill="#ff4a12" fill-opacity="0.7"/><text x="1030" y="656" text-anchor="end" fill="#757575">196 picks</text>
+        <g transform="translate(21 671) scale(0.26)"><ellipse cx="50" cy="88" rx="28" ry="4" fill="#000" opacity=".08"/>
+    <rect x="24" y="30" width="52" height="56" rx="12" fill="#f2a516"/><rect x="24" y="30" width="52" height="14" rx="8" fill="#f7bf4a"/>
+    <rect x="28" y="16" width="44" height="16" rx="5" fill="#7a4b22"/><rect x="28" y="16" width="44" height="5" rx="3" fill="#9a6431"/>
+    <rect x="32" y="50" width="36" height="26" rx="5" fill="#fffaf0"/><circle cx="50" cy="60" r="5" fill="#f2a516"/><rect x="38" y="68" width="24" height="3" rx="1.5" fill="#c9b79a"/>
+    <path d="M30 34 q4 14 2 22" stroke="#fff" stroke-opacity=".5" stroke-width="3" fill="none" stroke-linecap="round"/></g><text x="56" y="688">Wildflower Honey</text><rect x="260" y="678" width="560" height="10" rx="5" fill="#f0f0f0"/><rect x="260" y="678" width="220" height="10" rx="5" fill="#ff4a12" fill-opacity="0.55"/><text x="1030" y="688" text-anchor="end" fill="#757575">139 picks</text>
+      </g>
+    </g>
+  </g>
+</svg>

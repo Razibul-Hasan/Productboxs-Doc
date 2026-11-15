@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 440" role="img" aria-label="The three campaign types">
+  <defs><filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1e1e1e" flood-opacity="0.10"/></filter></defs>
+  <rect width="1400" height="440" rx="24" fill="#faf8f6"/>
+  <g font-family="Inter, 'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif">
+    <g filter="url(#s)">
+      <rect x="40" y="40" width="410" height="360" rx="20" fill="#fff"/>
+      <rect x="495" y="40" width="410" height="360" rx="20" fill="#fff"/>
+      <rect x="950" y="40" width="410" height="360" rx="20" fill="#fff"/>
+    </g>
+
+    <!-- Tiered -->
+    <g transform="translate(40 40)">
+      <rect x="28" y="28" width="56" height="56" rx="16" fill="#fff1ea"/>
+      <path d="M44 68 V58 M56 68 V50 M68 68 V42" stroke="#ff4a12" stroke-width="8" stroke-linecap="round"/>
+      <text x="28" y="130" font-size="24" font-weight="800" fill="#1e1e1e" letter-spacing="-0.4">Tiered discount</text>
+      <text x="28" y="158" font-size="15" fill="#6b6460">The more they add, the more they save.</text>
+      <g transform="translate(28 190)">
+        <rect width="354" height="42" rx="10" fill="#f6f4f2"/><text x="16" y="27" font-size="14.5" fill="#1e1e1e">3 items</text><text x="338" y="27" text-anchor="end" font-size="14.5" font-weight="700" fill="#ff4a12">5% off</text>
+        <rect y="52" width="354" height="42" rx="10" fill="#f6f4f2"/><text x="16" y="79" font-size="14.5" fill="#1e1e1e">5 items</text><text x="338" y="79" text-anchor="end" font-size="14.5" font-weight="700" fill="#ff4a12">10% off</text>
+        <rect y="104" width="354" height="42" rx="10" fill="#fff1ea" stroke="#ffc9ad"/><text x="16" y="131" font-size="14.5" font-weight="700" fill="#1e1e1e">8 items</text><text x="338" y="131" text-anchor="end" font-size="14.5" font-weight="800" fill="#ff4a12">20% off</text>
+      </g>
+      <text x="28" y="344" font-size="13.5" fill="#8a847f">Best for: volume pricing, snack and sample boxes</text>
+    </g>
+
+    <!-- Fixed -->
+    <g transform="translate(495 40)">
+      <rect x="28" y="28" width="56" height="56" rx="16" fill="#fff9d6"/>
+      <rect x="44" y="44" width="10" height="10" rx="2" fill="#d4a900"/><rect x="58" y="44" width="10" height="10" rx="2" fill="#d4a900"/><rect x="44" y="58" width="10" height="10" rx="2" fill="#d4a900"/><rect x="58" y="58" width="10" height="10" rx="2" fill="#d4a900" fill-opacity="0.4"/>
+      <text x="28" y="130" font-size="24" font-weight="800" fill="#1e1e1e" letter-spacing="-0.4">Fixed box size</text>
+      <text x="28" y="158" font-size="15" fill="#6b6460">Shoppers pick a size, then fill every slot.</text>
+      <g transform="translate(28 190)">
+        <rect width="106" height="146" rx="12" fill="#f6f4f2"/><text x="53" y="62" text-anchor="middle" font-size="30" font-weight="800" fill="#1e1e1e">4</text><text x="53" y="86" text-anchor="middle" font-size="13" fill="#6b6460">Small</text><text x="53" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1e1e1e">$24</text>
+        <rect x="124" width="106" height="146" rx="12" fill="#fffbe0" stroke="#f3dc5c" stroke-width="1.5"/><text x="177" y="62" text-anchor="middle" font-size="30" font-weight="800" fill="#1e1e1e">6</text><text x="177" y="86" text-anchor="middle" font-size="13" fill="#6b6460">Medium</text><text x="177" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1e1e1e">$34</text>
+        <rect x="248" width="106" height="146" rx="12" fill="#f6f4f2"/><text x="301" y="62" text-anchor="middle" font-size="30" font-weight="800" fill="#1e1e1e">9</text><text x="301" y="86" text-anchor="middle" font-size="13" fill="#6b6460">Large</text><text x="301" y="118" text-anchor="middle" font-size="15" font-weight="700" fill="#1e1e1e">$46</text>
+      </g>
+      <text x="28" y="344" font-size="13.5" fill="#8a847f">Best for: gift boxes, hampers, sampler sets</text>
+    </g>
+
+    <!-- Bundle -->
+    <g transform="translate(950 40)">
+      <rect x="28" y="28" width="56" height="56" rx="16" fill="#e8f7ec"/>
+      <text x="56" y="67" text-anchor="middle" font-size="24" font-weight="800" fill="#00701b">$</text>
+      <text x="28" y="130" font-size="24" font-weight="800" fill="#1e1e1e" letter-spacing="-0.4">Bundle price</text>
+      <text x="28" y="158" font-size="15" fill="#6b6460">A set number of products for one price.</text>
+      <g transform="translate(28 190)">
+        <rect width="354" height="146" rx="14" fill="#f4faf6" stroke="#cfe9d8"/>
+        <text x="177" y="58" text-anchor="middle" font-size="16" fill="#3f5a48" font-weight="600">Pick any 3</text>
+        <text x="177" y="108" text-anchor="middle" font-size="52" font-weight="800" fill="#1e1e1e" letter-spacing="-1.5">$18</text>
+        <text x="177" y="132" text-anchor="middle" font-size="12.5" fill="#6b8574">regular price $24.97 · you save 28%</text>
+      </g>
+      <text x="28" y="344" font-size="13.5" fill="#8a847f">Best for: “pick any 3” deals, shirt bundles</text>
+    </g>
+  </g>
+</svg>
